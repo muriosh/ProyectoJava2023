@@ -14,7 +14,7 @@ public class EjemploJava2023 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println(">Epi: ¡Hola Blas!");
+        System.out.println(">Epi: ¡Hola Blas!\n>Blas: ¡Hola Epi!\n");
     }
     
 }
